@@ -1,0 +1,44 @@
+.body_background {
+    background-image: url("bg.jpg");
+	background-position: fill;
+}
+
+#myCanvas
+{
+    background-color: rgb(29, 62, 105); 
+    border-width:15px;  
+    border-style:double;
+	border-color: rgb(255, 72, 0);
+    border-radius: 100px;
+}
+h2
+{
+	border-radius: 100px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+    border-radius: 100px;
+}
+span
+{
+	color: black;
+    border-radius: 100px;	
+}
+a
+{
+	text-decoration:none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 100px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+    border-radius: 100px;
+}
